@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T10:09:05.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="NA1UJbS_EtmYzGfFCb_5" version="13.7.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-11T10:12:49.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="S0SZFx8XqwQrO24aCgfI" version="13.7.9" type="github" pages="6">
   <diagram id="AioxpWqH9UdGTfdQiz4A" name="business strategy">
     <mxGraphModel dx="1002" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-50" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-51" target="dKdSaXE48SgPbhcamS2K-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="Program Feature&#xa;To Include relevant Feature&#xa;with basic Description&#xa;and image (if any)&#xa;infrastructure&#xa;Digital Development" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="1.      &#xa;Program&#xa;Feature&#xa;&#xa;&#xa;2.      &#xa;To Include&#xa;relevant Feature&#xa;&#xa;with basic Description&#xa;&#xa;and image (if any).&#xa;&#xa;&#xa;3.      &#xa;Infrastructure&#xa;&#xa;&#xa;4.      &#xa;Digital&#xa;Development" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="230" height="169" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-53" target="dKdSaXE48SgPbhcamS2K-57" edge="1">
